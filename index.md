@@ -186,6 +186,14 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<p>
+  <a href="https://www.zbmed.de/">
+    <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
+  </a>
+  <a href="https://www.th-koeln.de/weiterbildung/workshop-library-carpentry-it--und-datenkompetenz-in-bibliotheken_60076.php">
+    <img src="https://www.th-koeln.de/img/logo.svg" alt="TH Köln" height="100"/>
+  </a>
+</p>
 <hr/>
 
 {% comment%}
