@@ -282,11 +282,11 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
 
-{% if site.carpentry == "swc" %}
-{% include swc/syllabus.html %}
-{% elsif site.carpentry == "dc" %}
+{% if page.carpentry == "swc" %}
+{% include sc/syllabus.html %}
+{% elsif page.carpentry == "dc" %}
 {% include dc/syllabus.html %}
-{% elsif site.carpentry == "lc" %}
+{% elsif page.carpentry == "lc" %}
 {% include lc/syllabus.html %}
 {% endif %}
 
