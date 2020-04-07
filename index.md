@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "TH Köln – University of Applied Sciences , Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung (ZBIW)"         # brief name of host site without address (e.g., "Euphoric State University")
+venue: "TH Köln – University of Applied Sciences , Zentrum für Bibliotheks- und Informationswissenschaftliche Weiterbildung (ZBIW) - ONLINE"         # brief name of host site without address (e.g., "Euphoric State University")
 address: "Online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "DE"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
